@@ -48,4 +48,4 @@ This tool is released under the MIT License.
 
 ## ✍️ Author
 
-Developed by [Your Name]. For academic and research use.
+Developed by [Abhishek Singh]. For academic and research use.
